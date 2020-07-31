@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FireBase</string>
+    <string name="label1">Email</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="btnLogin">Login</string>
+    <string name="signUp">Not Registered? Sign Up</string>
+    <string name="confpassword">Confirm Password</string>
+    <string name="btnSignUp">SignUp</string>
+    <string name="btnLogout">Logout</string>
+    <string name="JoinUs">Join Us !</string>
+    <string name="name">Name</string>
+</resources>
